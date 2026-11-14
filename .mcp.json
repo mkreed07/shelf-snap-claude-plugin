@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "shelf-snap": {
+      "type": "http",
+      "url": "https://api.shelf-snap.com/functions/v1/shelfsnap-mcp"
+    }
+  }
+}
