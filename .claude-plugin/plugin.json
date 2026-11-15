@@ -1,7 +1,7 @@
 {
   "name": "shelf-snap",
   "displayName": "Shelf-Snap",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "For Whatnot sellers who use Shelf-Snap: send Shelf-Snap batches to Whatnot, sync shipping profiles, and import Whatnot sales and show stats into Shelf-Snap, all by asking Claude. Needs Shelf-Snap Pro and Whatnot's own connector.",
   "author": {
     "name": "Shelf-Snap",
@@ -10,7 +10,6 @@
   "license": "MIT",
   "icon": ".claude-plugin/icon.png",
   "privacyPolicyUrl": "https://shelf-snap.com/privacy/",
-  "documentationUrl": "https://shelf-snap.com/resources/claude-connector-setup/",
   "homepage": "https://shelf-snap.com",
   "repository": "https://github.com/mkreed07/shelf-snap-claude-plugin",
   "supportUrl": "https://shelf-snap.com/support",
@@ -24,5 +23,6 @@
     "sales",
     "live shopping",
     "vintage"
-  ]
+  ],
+  "documentationUrl": "https://shelf-snap.com/resources/claude-connector-setup/"
 }
